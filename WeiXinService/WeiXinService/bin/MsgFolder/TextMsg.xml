@@ -1,0 +1,7 @@
+﻿<xml>
+	<ToUserName><![CDATA[toUser]]></ToUserName>
+	<FromUserName><![CDATA[fromUser]]></FromUserName>
+	<CreateTime></CreateTime>
+	<MsgType><![CDATA[MsgType]]></MsgType>
+	<Content><![CDATA[Content]]></Content>
+</xml>
